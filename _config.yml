@@ -1,0 +1,28 @@
+name: martontrading_dax_test
+favicon: null
+layout_spectrum: 0.7066986667923629
+typography_spectrum: 0.6518784316722304
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8308516200631857
+  lightness: 0.1405246111098677
+  saturation: 0.9205192362423986
+  rhythmicContrast: 0.6457257829606533
+purpose: []
